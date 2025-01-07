@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "615044119702",
+    "firebase_url": "https://rikon-6be30-default-rtdb.firebaseio.com",
+    "project_id": "rikon-6be30",
+    "storage_bucket": "rikon-6be30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615044119702:android:e8eb00dd80ed1631f256b7",
+        "android_client_info": {
+          "package_name": "com.example.rikon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615044119702-mtt722pk6npv27lh59f6bj3rgr27hslq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCP6TQrkC41yptgXShfWVLMRxGCF0knCMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615044119702-mtt722pk6npv27lh59f6bj3rgr27hslq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615044119702:android:57f2cc456ce80a7cf256b7",
+        "android_client_info": {
+          "package_name": "com.varun.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615044119702-mtt722pk6npv27lh59f6bj3rgr27hslq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCP6TQrkC41yptgXShfWVLMRxGCF0knCMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615044119702-mtt722pk6npv27lh59f6bj3rgr27hslq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.MyApplication" parent="android:Theme.Material.Light.NoActionBar">
+        <item name ="android:windowSplashScreenBackground">#fcca4b</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/lo</item>
+           <item name="android:windowSplashScreenAnimationDuration">3000</item>
+
+
+    </style>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MyApplication" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/blue</item>
+    </style>
+
+
+</resources>
