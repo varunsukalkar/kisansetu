@@ -37,3 +37,6 @@ Coroutines and LiveData (for asynchronous operations)
 📚 Purpose
 KisanSetu aims to promote transparency, empower local farmers, reduce reliance on middlemen, and deliver fresh produce directly to consumers. The app focuses on ease of use, even in areas with limited connectivity.
 ![WhatsApp Image 2025-04-27 at 20 59 13](https://github.com/user-attachments/assets/c6ec6b84-23a2-47f5-aea7-8efdc8ea4373)
+
+![WhatsApp Image 2025-04-27 at 20 59 15](https://github.com/user-attachments/assets/583be5ce-6347-4c11-9763-fbc6cd21c9ff)
+
