@@ -36,16 +36,25 @@ Coroutines and LiveData (for asynchronous operations)
 
 📚 Purpose
 KisanSetu aims to promote transparency, empower local farmers, reduce reliance on middlemen, and deliver fresh produce directly to consumers. The app focuses on ease of use, even in areas with limited connectivity.
-![WhatsApp Image 2025-04-27 at 20 59 13](https://github.com/user-attachments/assets/c6ec6b84-23a2-47f5-aea7-8efdc8ea4373)
-
-![WhatsApp Image 2025-04-27 at 20 59 15](https://github.com/user-attachments/assets/583be5ce-6347-4c11-9763-fbc6cd21c9ff)
-
-![WhatsApp Image 2025-04-27 at 20 59 14 (2)](https://github.com/user-attachments/assets/5770a3ef-bf41-494e-b53f-faa983653449)
 
 
-![WhatsApp Image 2025-04-27 at 20 59 14 (1)](https://github.com/user-attachments/assets/5431842e-d78e-4d13-93d7-ad523acfe1c3)
 
-![WhatsApp Image 2025-04-27 at 20 59 14](https://github.com/user-attachments/assets/00684dde-b618-456e-873a-38e21c9a41fc)
 
-![Screenshot_20250103-112338 (1)](https://github.com/user-attachments/assets/87026853-ff53-4e00-b1e4-4225a810d124)
+<img src="https://github.com/user-attachments/assets/c6ec6b84-23a2-47f5-aea7-8efdc8ea4373 " width="200" title="spalshsrcreen"/>
+
+<img src="https://github.com/user-attachments/assets/583be5ce-6347-4c11-9763-fbc6cd21c9ff " width="200" title="spalshsrcreen"/>
+
+<img src="https://github.com/user-attachments/assets/5770a3ef-bf41-494e-b53f-faa983653449 " width="200" title="spalshsrcreen"/>
+
+<img src="https://github.com/user-attachments/assets/5431842e-d78e-4d13-93d7-ad523acfe1c3 " width="200" title="spalshsrcreen"/>
+
+<img src="https://github.com/user-attachments/assets/00684dde-b618-456e-873a-38e21c9a41fc " width="200" title="spalshsrcreen"/>
+
+
+<img src="https://github.com/user-attachments/assets/87026853-ff53-4e00-b1e4-4225a810d124 " width="200" title="spalshsrcreen"/>
+
+
+
+
+
 
