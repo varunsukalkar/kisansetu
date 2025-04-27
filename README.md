@@ -1,4 +1,5 @@
-KisanSetu 🚜📱
+#KisanSetu 🚜📱
+
 KisanSetu is a mobile application built to bridge the gap between farmers and buyers by providing direct market access without the need for intermediaries. It empowers farmers to list their fresh produce and enables buyers to connect directly with local sources, ensuring better profits for farmers and fresher goods for consumers.
 
 ✨ Features
