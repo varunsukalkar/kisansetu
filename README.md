@@ -40,3 +40,7 @@ KisanSetu aims to promote transparency, empower local farmers, reduce reliance o
 
 ![WhatsApp Image 2025-04-27 at 20 59 15](https://github.com/user-attachments/assets/583be5ce-6347-4c11-9763-fbc6cd21c9ff)
 
+![WhatsApp Image 2025-04-27 at 20 59 14 (2)](https://github.com/user-attachments/assets/5770a3ef-bf41-494e-b53f-faa983653449)
+
+
+
